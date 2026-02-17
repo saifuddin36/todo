@@ -77,6 +77,15 @@ The frontend application will run at `http://localhost:5173`.
 ### Adding a Task with Due Date
 ![Task Creation](./screenshots/add-task.png)
 
+### Backend Structure
+![Backend Structure](./backend.png)
+
+### Frontend Structure
+![Frontend Structure](./fe.png)
+
+### Database
+![Database](./data%20base.png)
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
